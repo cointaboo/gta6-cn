@@ -1,0 +1,13 @@
+# GTA 6 发售信息站（中文）
+
+> GTA 6 于 2026-11-19 发售（PS5 / Xbox Series X|S），按当地时区零点解锁。本页汇总已确认事实与来源。
+
+## 页面
+- 首页: https://cointaboo.github.io/gta6-cn/ 已确认事实汇总，每条标来源
+- 解锁时间表: https://cointaboo.github.io/gta6-cn/unlock-times.html 各时区换算成 UTC，新西兰最早(UTC 11-18 11:00)，夏威夷最晚(UTC 11-19 10:00)
+- 预载容量: https://cointaboo.github.io/gta6-cn/preload-size.html 约 212 GB，Xbox 全球同步预载、PS5 按区域推送
+
+## 已确认事实
+- 发售日 2026-11-19，平台 PS5 / Xbox Series X|S（Rockstar 官方）
+- 解锁规则：当地时区 0 点，非全球同时（Rockstar 支持文档）
+- 安装容量约 212 GB（部分平台显示 209.9 GB）

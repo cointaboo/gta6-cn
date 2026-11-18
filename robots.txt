@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cointaboo.github.io/gta6-cn/sitemap.xml
